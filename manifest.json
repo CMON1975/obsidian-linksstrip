@@ -1,0 +1,10 @@
+{
+    "id": "linkstrip",
+    "name": "Linkstrip",
+    "version": "0.1.0",
+    "minAppVersion": "0.12.0",
+    "description": "Alt+Click to strip [[wikilinks]] to plain text.",
+    "author": "Christopher Magnus Øvringmo Nilssen",
+    "authorUrl": "https://github.com/CMON1975",
+    "main": "main.js"
+}

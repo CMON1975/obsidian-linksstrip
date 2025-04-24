@@ -1,0 +1,21 @@
+{
+    "name": "obsidian-linkstrip",
+    "version": "1.0.0",
+    "description": "Hotkey to strip [[wikilinks]] into plain text in the active editor line.",
+    "main": "main.js",
+    "scripts": {
+        "build": "esbuild main.ts --bundle --outfile=main.js --target=es2020 --platform=browser --format=cjs --external:obsidian",
+        "watch": "esbuild main.ts --bundle --outfile=main.js --target=es2020 --platform=browser --format=cjs --external:obsidian --watch"
+    },
+    "keywords": [
+        "obsidian-plugin",
+        "markdown",
+        "wikilinks"
+    ],
+    "author": "Christopher Magnus Øvringmo Nilssen",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^22.14.1",
+        "esbuild": "^0.25.3"
+    }
+}

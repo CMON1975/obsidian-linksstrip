@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Build output
+main.js
+
+# Editor metadata
+.vscode/
+.DS_Store
+
+# OS / archive junk
+*.zip
+Thumbs.db
+ehthumbs.db
+
+# Lockfile (optional, if you prefer clean installs)
+package-lock.json
