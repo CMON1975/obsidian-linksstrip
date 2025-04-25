@@ -70,4 +70,4 @@ MIT © [Christopher Magnus Øvringmo Nilssen](https://github.com/CMON1975)
 
 ## Inspiration
 
-There was no native or community plugin that offered this as a hotkey action. The intent was to minimize friction for markdown-centric writers.
+There was no native or community plugin that offered this as a hotkey action. The intent is to minimize friction for markdown-centric writers.
