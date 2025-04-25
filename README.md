@@ -16,9 +16,7 @@
 
 ### 1. Installation
 
-#### Community Plugins (Recommended)
-> *(Submit to the community plugin browser once accepted)*
-
+#### Community Plugins (Pending)
 1. Open Obsidian → Settings → Community Plugins → Browse
 2. Search for **Linkstrip**
 3. Install and enable it
