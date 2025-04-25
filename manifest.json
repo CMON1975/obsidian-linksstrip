@@ -6,5 +6,6 @@
     "description": "Alt+Click to strip [[wikilinks]] to plain text.",
     "author": "Christopher Magnus Øvringmo Nilssen",
     "authorUrl": "https://github.com/CMON1975",
-    "main": "main.js"
+    "main": "main.js",
+    "isDesktopOnly": true
 }
